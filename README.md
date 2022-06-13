@@ -1,16 +1,11 @@
 # world_time
 
-A new Flutter project.
+The main of this application is to know the time of the city around the world by select the city you want in the list in choose location
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+### night mode
+![](./capture/1.png)
+### day mode
+![](./capture/2.png)
+### list of city
+![](./capture/3.png)
